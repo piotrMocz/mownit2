@@ -6,5 +6,6 @@ W tym repozytorium będą pojawiały się zagadnienia do laboratorium.
 * **FFT**: https://github.com/piotrMocz/mownit2/blob/master/FFT.ipynb -- będzie się pojawiać więcej
 * **Laboratorium 4 (8.11.2017)**: https://github.com/piotrMocz/mownit2/blob/master/Lab4.ipynb
 * **Laboratorium 5 (15.11.2017)**: https://github.com/piotrMocz/mownit2/blob/master/Lab5.ipynb
+* **Laboratorium 6 (29.11.2017)**: https://github.com/piotrMocz/mownit2/blob/master/Lab6.ipynb
 
 W razie błędów -- pull requesty mile widziane :)
