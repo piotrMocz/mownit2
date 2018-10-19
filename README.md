@@ -4,7 +4,7 @@ W tym repozytorium będą pojawiały się zagadnienia do laboratorium.
 
 * **Lab 1 (12.10.2018)**: https://github.com/kzajac/Mownit2018/blob/master/Mownit-Lab1.ipynb
 
-W razie błędów -- pull requesty mile widziane :)
+W razie błędów – pull requesty mile widziane :)
 
 ### Przesyłanie zadań
 
