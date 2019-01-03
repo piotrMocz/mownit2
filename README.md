@@ -7,7 +7,7 @@ W tym repozytorium będą pojawiały się zagadnienia do laboratorium.
 * **Lab 3 (26.10.2018)**: [Układy równań liniowych](https://github.com/piotrMocz/mownit2/blob/master/Lab3.ipynb)
 * **Lab    (4.01.2019)**: [Regresja liniowa z regularyzacją](https://github.com/piotrMocz/mownit2/blob/master/Lab6.ipynb)
 
-W razie błędów -- pull requesty mile widziane :)
+W razie błędów – pull requesty mile widziane :)
 
 ### Przesyłanie zadań
 
