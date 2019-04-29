@@ -2,6 +2,8 @@
 
 W tym repozytorium będą pojawiały się zagadnienia do laboratorium.
 
+Laboratorium 29.04.2019: zadanie jest w [tym notebooku](https://github.com/piotrMocz/mownit2/blob/master/Lab5.ipynb).
+
 Laboratorium 8.04.2019: używać będziemy [tego notebooka](https://github.com/kzajac/Mownit2018/blob/master/Mownit_lab9.ipynb). Można pisać zarówno w Julii, jak i dowolnym innym języku (np. Pythonie). Pythonowe odpowiedniki używanych funkcji to:
 * `gauss`: [`leggauss`](https://docs.scipy.org/doc/numpy-1.14.2/reference/generated/numpy.polynomial.legendre.leggauss.html)
 * pakiet `QuadGK`: [`scipy.integrate.quadrature`](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.integrate.quadrature.html) lub [`quadpy`](https://pypi.org/project/quadpy/).
