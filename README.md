@@ -2,6 +2,8 @@
 
 W tym repozytorium będą pojawiały się zagadnienia do laboratorium.
 
+Laboratorium 20.05.2019: zadanie jest w [tym PDF-ie](https://github.com/piotrMocz/mownit2/blob/master/lab-svd.pdf) i jest...kradzione (i bardzo fajne).
+
 Laboratorium 13.05.2019: zadanie jest w [tym notebooku](https://github.com/piotrMocz/mownit2/blob/master/Lab6.ipynb) i punkt za niego będą liczyły się podwójnie.
 
 Laboratorium 29.04.2019: zadanie jest w [tym notebooku](https://github.com/piotrMocz/mownit2/blob/master/Lab5.ipynb).
