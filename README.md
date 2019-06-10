@@ -2,6 +2,8 @@
 
 W tym repozytorium będą pojawiały się zagadnienia do laboratorium.
 
+Laboratorium 10.06.2019: zadanie z Symulowanego Wyżarzania, w [tym PDF-ie](https://github.com/piotrMocz/mownit2/blob/master/lab-sa.pdf)
+
 Laboratorium 3.06.2019: zadanie edukacyjno-filozoficzne, w [tym notebooku](https://github.com/piotrMocz/mownit2/blob/master/Chaos.ipynb).
 
 Laboratorium 27.05.2019: kolejne zadanie z SVD, w [tym PDF-ie](https://github.com/piotrMocz/mownit2/blob/master/lab-svd-2.pdf)
